@@ -447,7 +447,6 @@ Java 的异常体系，基于共同的祖先 java.lang.Throwable 类。如下图
 
 Throwable 类图
 
-感谢【贾鹤鸣】胖友指出的问题。图有点问题：
 
 图中的 ArrithmeticException 异常，多了一个 r ，正确拼写是 ArithmeticException 。
 图中 ClassNotFoundException 异常，父类是 ReflectiveOperationException => Exception ，不属于 RunTimeException 。
